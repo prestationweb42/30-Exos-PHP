@@ -1,0 +1,3 @@
+Tableaux
+Quand on fait des sites dynamiques, c'est à dire avec une base de données, 
+on récupère les données sous forme de tableau associatif qu'il faudra ensuite manipuler.
