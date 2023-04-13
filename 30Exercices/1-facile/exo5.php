@@ -24,5 +24,5 @@ for ($i = 0; $i <= 10; $i++) {
  * PERMET d INCLURE LE MENU ET LE TEMPLATE
  ************************/
 $content = ob_get_clean();
-require "../../global/common/template.php";
+require "../global/common/template.php";
 ?>

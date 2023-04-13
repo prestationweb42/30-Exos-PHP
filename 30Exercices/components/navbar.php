@@ -34,12 +34,33 @@
                         02-Moyen
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="2-moyen/index.php">Tableau-2D</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdown-item" href="#">Fich-Fonc-Tab</a></li>
+
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li>
+                        <li><a class="dropdown-item" href="#">Tab-Asso</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Objets</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Private-Getters</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Attribut-Statique</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Manip-2-Classes</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -48,30 +69,86 @@
                         01-Facile
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo1.php">Exo-1</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo2.php">Exo-2</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo3.php">Exo-3</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo4.php">Exo-4</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo5.php">Exo-5</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo6.php">Exo-6</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo7.php">Exo-7</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo8.php">Exo-8</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo9.php">Exo-9-Fonctions</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo10.php">Exo-10-Fonctions</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo11.php">Exo-11-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo12.php">Exo-12-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo13.php">Exo-13-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo14.php">Exo-14-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo15.php">Exo-15-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo16.php">Exo-16-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo17.php">Exo-17-Tableaux</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo18.php">Exo-18-Get</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo19.php">Exo-19-Post</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo20.php">Exo-20-Tab-Form</a></li>
+                        <li><a class="dropdown-item" href="1-facile/exo1.php">Exo-1</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdown-item" href="1-facile/exo2.php">Exo-2</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo3.php">Exo-3</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo4.php">Exo-4</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo5.php">Exo-5</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo6.php">Exo-6</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo7.php">Exo-7-Switch</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo8.php">Exo-8-While</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo9.php">Exo-9-Fonctions</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo10.php">Exo-10-Fonctions</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo11.php">Exo-11-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo12.php">Exo-12-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo13.php">Exo-13-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo14.php">Exo-14-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo15.php">Exo-15-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo16.php">Exo-16-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo17.php">Exo-17-Tableaux</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo18.php">Exo-18-Get</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo19.php">Exo-19-Post</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="1-facile/exo20.php">Exo-20-Tab-Form</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
                     </ul>
                 </li>
             </ul>

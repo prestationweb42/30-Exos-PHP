@@ -38,5 +38,5 @@ echo "<p>La moyenne des notes de Dan est de " . moyenneNotes($Dan) . ".</p>";
  * PERMET d INCLURE LE MENU ET LE TEMPLATE
  ************************/
 $content = ob_get_clean();
-require "../../global/common/template.php";
+require "../global/common/template.php";
 ?>

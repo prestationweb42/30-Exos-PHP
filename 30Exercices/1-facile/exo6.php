@@ -32,5 +32,5 @@ for ($i = $chiffre1; $i >= 1; $i--) {
  * PERMET d INCLURE LE MENU ET LE TEMPLATE
  ************************/
 $content = ob_get_clean();
-require "../../global/common/template.php";
+require "../global/common/template.php";
 ?>
