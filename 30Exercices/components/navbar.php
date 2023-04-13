@@ -67,7 +67,7 @@
                         <li><a class="dropdown-item" href="1-facile/exo1/exo17.php">Exo-17-Tableaux</a></li>
                         <li><a class="dropdown-item" href="1-facile/exo1/exo18.php">Exo-18-Get</a></li>
                         <li><a class="dropdown-item" href="1-facile/exo1/exo19.php">Exo-19-Post</a></li>
-                        <li><a class="dropdown-item" href="1-facile/exo1/exo20.php">Exo-Tab-Form</a></li>
+                        <li><a class="dropdown-item" href="1-facile/exo1/exo20.php">Exo-20-Tab-Form</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
