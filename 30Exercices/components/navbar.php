@@ -34,7 +34,7 @@
                         02-Moyen
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="2-moyen/index.php">Tableau-2D</a></li>
+                        <li><a class="dropdown-item" href="2-moyen/exo1.php">Tableau-2D</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
