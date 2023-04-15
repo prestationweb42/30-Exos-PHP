@@ -1,13 +1,8 @@
-# Unit 01: Introduction to Web Development, HTML, CSS, and Git
+# 30 Exercices PHP Facile - Moyens
 
-## Overview
+## Exercices en complément des leçons en PHP
 
-Programme des leçons en PHP
-
-## Key Topics
-
-Partie 1 - Facile - 20 Exercices:
-
+## Partie 1 - Facile - 20 Exercices:
 -   Variables
     -   Exo 1 : Variables
     -   Exo 2 : Variables et ternaires
