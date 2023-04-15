@@ -3,6 +3,7 @@
 ## Exercices en complément des leçons en PHP
 
 ## Partie 1 - Facile - 20 Exercices:
+
 -   Variables
     -   Exo 1 : Variables
     -   Exo 2 : Variables et ternaires
@@ -30,10 +31,7 @@
 -   Les formulaires et Tableaux
     -   Exo 20 : Formulaire et tableaux
 
-
-## Key Topics
-
-Partie 2 - Moyen - 7 Exercices:
+## Partie 2 - Moyen - 7 Exercices:
 
 -   Tableaux
     -   Exo 1 : Tableau à 2 dimensions - Table de multiplication
@@ -45,7 +43,6 @@ You will be employer-ready if you can answer the following questions:
 
 1. What does it mean to be a full-stack web developer?
 2. What is the relationship between HTML and CSS?
-
 
 ## Helpful Links
 
