@@ -36,6 +36,7 @@
 -   Tableaux
     -   Exo 1 : Tableau à 2 dimensions - Table de multiplication
     -   Exo 2 : Fichier de fonctions et tableaux + Affichage + Sum + Moyenne
+    -   Exo 3 : Tableaux Associatifs + BTN + Méthode GET
 
 ## Comprehension Check
 
