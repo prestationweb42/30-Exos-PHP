@@ -39,6 +39,7 @@
     -   Exo 3 : Tableaux Associatifs + BTN + Méthode GET
     -   Exo 4 : Class POO Objet + BTN + Méthode GET
     -   Exo 5 : Class POO Private Getter + Méthode POST
+    -   Exo 6 : Class POO Private Getter + Attribut Static
 
 ## Comprehension Check
 
