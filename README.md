@@ -19,7 +19,7 @@
     -   Exo 10 : Les Fonctions + Suppression Voyelles
 -   Les Tableaux
     -   Exo 11 : Les tableaux + Foreach
-    -   Exo 12 : Les tableaux et Moyenne
+    -   Exo 12 : Les tableaux Somme et Moyenne
     -   Exo 13 : Les Tableaux et Fonctions
     -   Exo 14 : Les Tableaux - Tableau de Tableaux
     -   Exo 15 : Les Tableaux - Tableau Associatif
